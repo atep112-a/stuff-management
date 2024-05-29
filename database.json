@@ -1,0 +1,34 @@
+{
+  "stuff": [
+    {
+      "id": "16fc",
+      "name": "Computer Electronic",
+      "price": "20",
+      "category": "Computer Electronic"
+    },
+    {
+      "id": "5513",
+      "name": "Mayoyo",
+      "price": "1",
+      "category": "Man"
+    }
+  ],
+  "categories": [
+    {
+      "id": "b23f",
+      "name": "Computer Electronic"
+    },
+    {
+      "id": "2201",
+      "name": "Clothes"
+    },
+    {
+      "id": "e07b",
+      "name": "Man"
+    },
+    {
+      "id": "1039",
+      "name": "Woman"
+    }
+  ]
+}
